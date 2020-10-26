@@ -1,7 +1,7 @@
-# SolvestINV
+ SolvestINV
   Gestor de Inventarios (Inventory Manager)
 
-Este sistema busca organizar los objetos/productos de un inventario.
+SolvestINV es una aplicación de escritorio desarrollada en Java y testeada con una base de datos .sql localmente poblada. Este sistema busca organizar los objetos/productos de un inventario.
 
 Requerimientos: 
 El sistema deberá contar con un inicio de sesión que permita a los usuarios del sistema ingresar utilizando usuario y contraseña.
@@ -16,7 +16,7 @@ Desarrollado por Adolfo Ulloa.
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
                                                           
 
-This system's objective is to organize the products of an inventory.
+SolvestINV is a desktop application developed in Java and tested with local .sql database. This system's objective is to organize the products of an inventory.
 
 Requirements:
 The system must have a login that allows system users to loggin using username and password.
